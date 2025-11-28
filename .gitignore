@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+
+# Large local datasets (kept out of GitHub)
+data/application_train.csv
+data/risk_segmented_output.csv
+data/*.csv
+
+# Jupyter artifacts
+.ipynb_checkpoints/
